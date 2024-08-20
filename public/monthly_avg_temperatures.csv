@@ -1,0 +1,121 @@
+Month,City,AverageTemperature
+January,New York,-1.0
+January,Los Angeles,14.2
+January,Chicago,-4.1
+January,Houston,12.8
+January,Miami,20.0
+January,San Francisco,11.2
+January,Seattle,7.4
+January,Denver,1.7
+January,Boston,-2.1
+January,Atlanta,6.3
+February,New York,0.5
+February,Los Angeles,15.3
+February,Chicago,-2.8
+February,Houston,14.3
+February,Miami,21.5
+February,San Francisco,12.5
+February,Seattle,8.1
+February,Denver,3.2
+February,Boston,-0.5
+February,Atlanta,8.1
+March,New York,4.0
+March,Los Angeles,16.7
+March,Chicago,2.0
+March,Houston,18.0
+March,Miami,24.0
+March,San Francisco,14.2
+March,Seattle,10.3
+March,Denver,6.8
+March,Boston,3.6
+March,Atlanta,11.7
+April,New York,10.2
+April,Los Angeles,18.3
+April,Chicago,8.5
+April,Houston,21.9
+April,Miami,26.8
+April,San Francisco,16.1
+April,Seattle,13.7
+April,Denver,11.4
+April,Boston,9.8
+April,Atlanta,16.5
+May,New York,16.7
+May,Los Angeles,19.8
+May,Chicago,14.5
+May,Houston,25.6
+May,Miami,28.2
+May,San Francisco,18.2
+May,Seattle,16.4
+May,Denver,16.5
+May,Boston,15.2
+May,Atlanta,21.3
+June,New York,21.5
+June,Los Angeles,22.0
+June,Chicago,20.3
+June,Houston,28.5
+June,Miami,29.6
+June,San Francisco,20.2
+June,Seattle,19.0
+June,Denver,21.1
+June,Boston,20.4
+June,Atlanta,25.8
+July,New York,24.7
+July,Los Angeles,24.2
+July,Chicago,24.8
+July,Houston,30.6
+July,Miami,30.8
+July,San Francisco,22.3
+July,Seattle,21.7
+July,Denver,24.4
+July,Boston,24.1
+July,Atlanta,27.6
+August,New York,24.3
+August,Los Angeles,24.1
+August,Chicago,24.4
+August,Houston,30.4
+August,Miami,30.7
+August,San Francisco,22.1
+August,Seattle,21.5
+August,Denver,24.2
+August,Boston,23.9
+August,Atlanta,27.3
+September,New York,20.3
+September,Los Angeles,23.1
+September,Chicago,20.0
+September,Houston,28.2
+September,Miami,29.6
+September,San Francisco,21.0
+September,Seattle,19.3
+September,Denver,20.3
+September,Boston,19.8
+September,Atlanta,24.5
+October,New York,14.3
+October,Los Angeles,20.2
+October,Chicago,13.6
+October,Houston,23.9
+October,Miami,27.0
+October,San Francisco,18.5
+October,Seattle,14.8
+October,Denver,13.9
+October,Boston,14.0
+October,Atlanta,18.6
+November,New York,8.6
+November,Los Angeles,17.2
+November,Chicago,6.7
+November,Houston,18.6
+November,Miami,23.9
+November,San Francisco,15.2
+November,Seattle,9.4
+November,Denver,6.3
+November,Boston,7.8
+November,Atlanta,12.8
+December,New York,1.0
+December,Los Angeles,13.5
+December,Chicago,-2.5
+December,Houston,12.0
+December,Miami,19.5
+December,San Francisco,11.5
+December,Seattle,6.5
+December,Denver,2.0
+December,Boston,-0.6
+December,Atlanta,6.0
