@@ -8,8 +8,7 @@ export default function Home() {
   return (
     <>
     <ResponsiveAppBar />
-    <div className="h-screen h-full">huh</div>
-    <CardGen />
+    <div className="h-screen h-full"></div>
     <TsBg></TsBg>
     {/* <Image src={img} alt={"huhh"} /> */}
     </>
